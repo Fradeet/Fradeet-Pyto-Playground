@@ -18,7 +18,7 @@ layouts = [
     widget.extra_large_layout
 ]
 
-for layout in layouts:
+for layout in layouts: #有多个布局用for批量渲染
     layout.add_vertical_spacer()
     layout.add_row([text])
     layout.add_vertical_spacer()
