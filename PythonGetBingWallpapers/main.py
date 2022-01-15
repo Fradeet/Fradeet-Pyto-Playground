@@ -20,6 +20,5 @@ def groupit(halflink):
 
 link = apiget()
 link = urlget(link)
-link = groupit(link)
-print(link)
+link = groupit(link)print(link)
 #Fin

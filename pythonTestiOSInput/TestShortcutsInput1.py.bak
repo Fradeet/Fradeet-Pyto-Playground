@@ -1,0 +1,4 @@
+# Created with Pyto
+
+s =input()
+print(s)
